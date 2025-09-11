@@ -1,2 +1,2 @@
-# Cozinha-Mani-oka---Slow-Food
+# ManiokaSlow-Food
 Uma loja online de alimentos orgânicos e artesanais
