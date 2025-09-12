@@ -1,3 +1,6 @@
 # ManiokaSlow-Food
 Uma loja online de alimentos orgânicos e artesanais
-Atividade 1°ADS  Fatec SJC- Programação em microinformática.
+
+
+
+Site elaborado para atividade em Programação em microinformática na Fatec SJC - 1°ADS
